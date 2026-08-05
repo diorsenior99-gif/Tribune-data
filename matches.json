@@ -1,0 +1,41 @@
+{
+  "updatedAt": "2026-08-05T22:58:38.921Z",
+  "matches": [
+    {
+      "league": "Ligue 1",
+      "home": "Marseille",
+      "away": "Strasbourg",
+      "kickoffISO": "2026-08-21T18:45:00Z",
+      "kickoffLabel": "vendredi 20:45",
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
+      "tip": "Victoire Marseille"
+    },
+    {
+      "league": "Ligue 1",
+      "home": "RC Lens",
+      "away": "Auxerre",
+      "kickoffISO": "2026-08-22T15:15:00Z",
+      "kickoffLabel": "samedi 17:15",
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
+      "tip": "Victoire RC Lens"
+    },
+    {
+      "league": "Ligue 1",
+      "home": "Le Mans",
+      "away": "Brest",
+      "kickoffISO": "2026-08-22T18:45:00Z",
+      "kickoffLabel": "samedi 20:45",
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
+      "tip": "Victoire Le Mans"
+    }
+  ]
+}
