@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:35:02.311Z",
+  "updatedAt": "2026-08-08T22:52:00.065Z",
   "matches": [
     {
       "id": 554953,
@@ -8,10 +8,10 @@
       "away": "Chapecoense",
       "kickoffISO": "2026-08-08T23:30:00Z",
       "kickoffLabel": "dimanche 01:30",
-      "confidence": 74,
-      "probHome": 74,
-      "probDraw": 12,
-      "probAway": 14,
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
       "predictedOutcome": "HOME",
       "tip": "Victoire Coritiba"
     },
@@ -22,12 +22,12 @@
       "away": "Fluminense",
       "kickoffISO": "2026-08-09T00:00:00Z",
       "kickoffLabel": "dimanche 02:00",
-      "confidence": 46,
-      "probHome": 46,
-      "probDraw": 24,
-      "probAway": 30,
-      "predictedOutcome": "DRAW",
-      "tip": "Match equilibre"
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
+      "predictedOutcome": "HOME",
+      "tip": "Victoire Botafogo"
     },
     {
       "id": 554954,
@@ -36,10 +36,10 @@
       "away": "Mirassol",
       "kickoffISO": "2026-08-09T14:00:00Z",
       "kickoffLabel": "dimanche 16:00",
-      "confidence": 70,
-      "probHome": 70,
-      "probDraw": 14,
-      "probAway": 16,
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
       "predictedOutcome": "HOME",
       "tip": "Victoire Cruzeiro"
     },
@@ -50,10 +50,10 @@
       "away": "Vasco da Gama",
       "kickoffISO": "2026-08-09T19:00:00Z",
       "kickoffLabel": "dimanche 21:00",
-      "confidence": 82,
-      "probHome": 82,
-      "probDraw": 8,
-      "probAway": 10,
+      "confidence": 56,
+      "probHome": 56,
+      "probDraw": 20,
+      "probAway": 24,
       "predictedOutcome": "HOME",
       "tip": "Victoire Bahia"
     }
